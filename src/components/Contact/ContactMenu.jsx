@@ -53,25 +53,7 @@ export function ContactMenu(){
       </ul>
       </div>
 
-      {/* Sürətli əlaqə düymələri (WhatsApp / Telegram)
-      <div className="quick-contact-buttons">
-        <a 
-          href="https://t.me/sizin_username" 
-          target="_blank" 
-          rel="noopener noreferrer" 
-          className="btn-telegram"
-        >
-          Telegram-da yaz
-        </a>
-        <a 
-          href="https://wa.me/994501234567" 
-          target="_blank" 
-          rel="noopener noreferrer" 
-          className="btn-whatsapp"
-        >
-          WhatsApp
-        </a>
-      </div> */}
+   
     </div>
     </>)
 }
