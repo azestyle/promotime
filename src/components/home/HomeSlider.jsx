@@ -1,5 +1,5 @@
 import React, { useRef, useState } from 'react';
-
+// Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 // Import Swiper styles
@@ -38,7 +38,19 @@ export default function HomeSlider() {
           <img src={el} />
         </SwiperSlide>
         ))}
-       
+        {/* <SwiperSlide>
+          <img src={slider1}  />
+          <SliderText/>
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src={slider2}  />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src="https://swiperjs.com/demos/images/abstract-3.jpg" />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src="https://swiperjs.com/demos/images/abstract-4.jpg" />
+        </SwiperSlide> */}
       </Swiper>
     </>
   );
