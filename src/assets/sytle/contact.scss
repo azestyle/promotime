@@ -1,0 +1,47 @@
+
+    .contact-info-card{
+       display: flex;
+       flex-direction: column;
+       gap: 20px;
+    }
+
+    .contact-headers{
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         h3{
+            font-size: var(--font-size-4xl);
+         }
+         p{
+            font-size: var(--font-size-md);
+         }
+    }
+  .contact-list-box{
+ display: flex;
+ justify-content: center;
+  }
+
+    .contact-list{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+      li{
+        display: flex;
+        gap: 2%;
+      }
+    }
+
+    .info-content{
+
+    }
+
+
+    .quick-contact-buttons{
+
+    }
+
+
+
+    
+
+

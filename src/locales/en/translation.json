@@ -1,0 +1,218 @@
+{
+  "welcome": "Welcome to our app",
+  "logout": "Logout",
+  "login": "Login",
+  "home":"Home",
+  "services":"Services",
+  "about":"About",
+  "contact":"Contact",
+  "text1":"Quality and attention to detail! We turn your ideas into reality with our professional team and advanced technologies. With our wide product range, prompt production process, and high standards, we are always at your service. Our main goal is to earn every customer's satisfaction and build long-term trust.",
+  "text2":"Excellence in every print, professionalism in every project! With our strong production base and experienced team, we deliver orders of any complexity on time and with high quality. Working with us means choosing quality and trust.",
+  "text3":"Discover the printing solutions of the future! Thanks to our cutting-edge technologies, professional approach, and high-quality materials, we bring your projects to life flawlessly. Fast execution, a wide range of choices, and customer satisfaction are our main priorities.",
+  "who":"Who are we?",
+  "service": {
+  "item1": {
+    "title": "Door Sign",
+    "text": "The unchanging signature of your trust and address. Reflect your company's image right from your door!"
+  },
+  "item2": {
+    "title": "Outdoor Advertising",
+    "text": "In the heart of the city, right before everyone's eyes! Take your brand to the top with outdoor advertising."
+  },
+  "item3": {
+    "title": "Menus",
+    "text": "The unforgettable presentation of taste begins on the very first page. Tastefully crafted menus tailored to your style!"
+  },
+  "item4": {
+    "title": "Boxes",
+    "text": "Let the box be just as unforgettable as the gift inside! Elevate your impression with elegant packaging."
+  },
+  "item5": {
+    "title": "Certificates",
+    "text": "Signatures that validate your success and value your effort. Make a difference with high-quality and prestigious certificates!"
+  },
+  "item6": {
+    "title": "Promo Products",
+    "text": "Keep your brand constantly in sight with promotional products that are always part of your customers' desks, pockets, and daily lives!"
+  }
+},
+"next":"M O R E",
+ "product": {
+    "start": "OUR PRODUCTS",
+    "header": "Print and Promo Products",
+    "text": "The printed products and promotional materials you use deliver your message to your customers everywhere on your behalf. Colors and unique design bring your ideas to life, highlighting the quality of your products, services, and brand. Promotional products carrying your brand keep you in sight at all times, making you visible and remembered even in places where you are not present."
+  },
+  "menu":"MENU",
+  "products": {
+    "bookPrinting": "Book printing",
+    "outdoorAd": "Outdoor advertising",
+    "promoProduct": "Promotional product",
+    "labelPrint": "Label and print",
+    "menu": "Menu"
+  },
+  "pag": "Pagination",
+"sendQuery": "Send query",
+"socialMedia": "Social media",
+"whatWeOffer": "What do we offer you?",
+"aboutText": "We provide quality printing services with state-of-the-art technologies and our strong production potential. By applying the latest innovations in the industry, we execute every project on time, affordably, and fully in line with your requirements.",
+  "servicesCards": {
+    "item1": {
+      "header": "Book Printing",
+      "text": "High-quality printing of fiction, scientific and educational books, academic and documentary publications, magazines, and catalogs. Win your readers' love and trust through quality print solutions."
+    },
+    "item2": {
+      "header": "Security Printing",
+      "text": "Reliable solutions to verify authenticity and protect your products. Secure your business with products equipped with advanced security elements."
+    },
+    "item3": {
+      "header": "Labels & Packaging",
+      "text": "Strengthen your product's image with custom labels and packaging. Boost your sales with diverse designs ranging from 1 to 1,000,000 items."
+    },
+    "item4": {
+      "header": "Promotional Products",
+      "text": "Turn your brand into a part of everyday life with promotional products. Create a lasting impression through personalized gifts."
+    },
+    "item5": {
+      "header": "Advertising Materials",
+      "text": "Effectively deliver your message to current and potential customers with advertising products. Stand out with eye-catching designs."
+    },
+    "item6": {
+      "header": "Other Printing",
+      "text": "We execute printing on mugs and other products, notebooks, document forms, and any other printing needs with high precision."
+    }
+  },
+
+  
+  "serviceDetails": {
+    "item1": {
+      "title": "Book Printing",
+      "description": "The most effective way to convey your ideas, stories, and scientific knowledge to your readers is through quality printing. Our publications, prepared with advanced technologies and a professional design approach, are flawless both aesthetically and functionally. With our wide range of format and material options, we offer customized solutions for every type of book project.",
+      "features": [
+        "Works of fiction (novels, novellas, and short stories)",
+        "Study guides, textbooks, and scientific collections",
+        "Magazines, presentation and product catalogs",
+        "Academic research and documentary publications",
+        "Religious books and sacred texts"
+      ]
+    },
+    "item2": {
+      "title": "Security Printing",
+      "description": "We provide special security printing solutions to protect financial, legal, and official documents. To prevent forgery and duplicates, we utilize high-tech printing methods, special inks, holograms, and other advanced security elements. A customized approach is applied to ensure the confidentiality and authenticity of every document, delivering security print products with high precision regardless of the order volume.",
+      "features": [
+        "Holograms and security labels",
+        "Certificates and diplomas",
+        "Bank checks and financial documents",
+        "Tickets and access cards",
+        "Documents protecting personal data",
+        "Strict reporting forms",
+        "Excise stamps and lottery tickets"
+      ]
+    },
+    "item3": {
+      "title": "Labels & Packaging",
+      "description": "Labels and packaging are among the most essential elements for promoting your product and attracting buyers' attention. Packaging and labels prepared with professional design and high-quality printing technologies make your brand more attractive and distinctive. Providing crucial product information while remaining visually appealing, labels and packaging play a vital role in customers' decision-making processes. We offer customized, innovative solutions crafted from durable materials for you.",
+      "features": [
+        "Product labels",
+        "Custom packaging designs",
+        "Cardboard and paper boxes",
+        "Cardboard and paper bags",
+        "Labels and packaging for food products",
+        "Labels and packaging for cosmetics and pharmaceuticals"
+      ]
+    },
+    "item4": {
+      "title": "Promotional Products",
+      "description": "Promotional products are excellent marketing tools to strengthen your company's promotion and present pleasant surprises to your customers. Featuring a functional and attractive design, these products make your brand more visible in everyday life and create long-term promotional opportunities. Crafted with your logo and various designs for your brand, promotional products can be used at events, exhibitions, campaigns, and presented as corporate gifts. Strengthening your connection with customers, these products ensure your brand is remembered, setting you apart from your competitors.",
+      "features": [
+        "Business cards",
+        "Notepads and notebooks",
+        "Bags (fabric, canvas, etc.)",
+        "Mugs and water bottles",
+        "Keychains and accessories",
+        "Powerbanks and USB flash drives",
+        "Wall and desk calendars"
+      ]
+    },
+    "item5": {
+      "title": "Advertising Materials",
+      "description": "Advertising materials are an ideal tool for promoting your brand to a wide audience and delivering eye-catching visual messages. From outdoor advertising to indoor advertising elements, each product effectively communicates your brand's core message to your customers. Prepared with modern technologies and creative design approaches, advertising products enhance the impact of your campaigns and raise brand value. Banners, LED boards, roll-ups, and other promotional items stand out with both visual appeal and quality. These products are an ideal choice to grab attention during events and exhibitions and ensure your brand is positively remembered.",
+      "features": [
+        "Brand catalogs and brochures",
+        "Advertising posters and banners",
+        "Presentation boards and stands",
+        "Outdoor advertising",
+        "Informative posters and booklets",
+        "Door plaques"
+      ]
+    },
+    "item6": {
+      "title": "Other Printing",
+      "description": "We provide a wide range of services with modern printing technologies for individual and corporate clients. With high-quality materials and professional design, both the functionality and aesthetics of every print product are carefully considered. From office documents to special event invitations, we offer fast and innovative printing solutions tailored to your needs.",
+      "features": [
+        "Office and corporate documents",
+        "Kitchen and restaurant menus",
+        "Invitations and postcards",
+        "Printing on fabric and paper bags",
+        "Textile products",
+        "Flags and scarves"
+      ]
+    }
+  },
+  "detailedInfo": "More info",
+  "form": {
+    "titlePersonal": "Personal Information",
+    "fullNameLabel": "Full Name",
+    "firstNamePlaceholder": "First Name",
+    "lastNamePlaceholder": "Last Name",
+    "firstNameRequired": "First name is required",
+    "lastNameRequired": "Last name is required",
+    
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter your email address",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Enter a valid email address",
+    
+    "phoneLabel": "Phone Number",
+    "phonePlaceholder": "050 123 45 67",
+    "phoneRequired": "Phone number is required",
+    
+    "titleOrder": "Order Details",
+    "productTypeLabel": "Product Type",
+    "productTypePlaceholder": "Booklet, business card, etc.",
+    "productTypeRequired": "Product type is required",
+    
+    "printMaterialsLabel": "Print Materials",
+    "printMaterialsPlaceholder": "Paper type, thickness, etc.",
+    "printMaterialsRequired": "Print material is required",
+    
+    "quantityLabel": "Quantity",
+    "quantityPlaceholder": "Enter quantity",
+    "quantityRequired": "Quantity is required",
+    
+    "uploadLabel": "Upload Your Design",
+    "uploadText": "Click or drag files to this area to upload.",
+    "uploadLimit": "You can upload up to 3 files.",
+    "uploadHint": "PDF, Adobe Illustrator or JPEG files are supported",
+    "selectedFiles": "Selected files:",
+    
+    "notesLabel": "Additional Notes",
+    "notesPlaceholder": "Special requirements, delivery, etc.",
+    
+    "privacyText": "Your personal data will be kept strictly confidential and will not be shared with third parties.",
+    "submitBtn": "SUBMIT",
+    "submittingBtn": "SUBMITTING...",
+    
+    "maxFileAlert": "You can upload a maximum of 3 files.",
+    "successTitle": "Success!",
+    "successText": "Your order has been successfully sent ",
+    "loadingTitle": "Sending...",
+    "loadingText": "Please wait, data is being sent to Telegram.",
+    "errorTitle": "An Error Occurred!",
+    "errorText": "Order could not be sent. Please try again."
+  }
+
+
+
+
+}
+

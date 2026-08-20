@@ -1,0 +1,65 @@
+
+
+.mySwiperss {
+  width: 100%;
+  height: var(--slider-height);
+    aspect-ratio: 16 / 9;
+  border-radius: 10px;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  background-color: #000;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.mySwiper {
+  // Oxların və nöqtələrin ümumi rəngini ağ edirik
+  --swiper-navigation-color: #ffffff;
+  --swiper-pagination-color: #ffffff;
+  
+  // Əgər aktiv olmayan nöqtələrin solğun/şəffaf ağ olmasını istəsənsə:
+  --swiper-pagination-bullet-inactive-color: #ffffff;
+  --swiper-pagination-bullet-inactive-opacity: 0.4;
+
+  // Oxların ölçüsünü istəsən buradan azca tənzimləyə bilərsən:
+  .swiper-button-next,
+  .swiper-button-prev {
+    height: var(--font-size-5xl); 
+    font-size: 10px !important;
+    font-weight: bold;
+    
+    
+    // Əgər oxların arxasına fon (krug/kvadrat) vermək istəmirsənsə təmiz qalır, 
+    // istəsənsə aşağıdakı kimi kölgə verə bilərsən ki, ağ fonda yaxşı görsənsin:
+    filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.5));
+  }
+}
+
+.text-box{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.2) 100%);
+    padding: 2% 3%;
+    
+    h1{
+        width: 35%;
+        color: white;
+        font-size:var(--slider-size-5xl) ;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: left;
+    }
+}

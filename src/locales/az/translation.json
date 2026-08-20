@@ -1,0 +1,216 @@
+{
+  "welcome": "xos gelmisiniz",
+  "logout": "cix",
+  "login": "gir",
+  "home":"Ana səhifə",
+  "services":"Xidmətlər",
+  "about":"Haqqımızda",
+  "contact":"Əlaqə",
+  "text1":"Keyfiyyət və detallara verilən dəyər! Peşəkar komandamız və qabaqcıl texnologiyalarımızla ideyalarınızı reallığa çeviririk. Geniş məhsul çeşidimiz, operativ istehsalat prosesimiz və yüksək standartlarımızla hər zaman xidmətinizdəyik. Əsas amalımız – hər bir müştərinin məmnuniyyətini qazanmaq və uzunmüddətli etibar qazanmaqdır.",
+  "text2":"Hər çapda mükəmməllik, hər layihədə peşəkarlıq! Güclü istehsalat bazamız və təcrübəli komandamızla istənilən mürəkkəblikdə sifarişlərinizi vaxtında və yüksək keyfiyyətlə təhvil veririk. Bizimlə işləmək – keyfiyyət və etibarı seçmək deməkdir",
+  "text3":"Gələcəyin çap həlləri ilə tanış olun! Ən son texnologiyalarımız, peşəkar yanaşmamız və yüksək keyfiyyətli materiallarımız sayəsində layihələrinizi qüsursuz şəkildə həyata keçiririk. Sürətli icra, geniş çeşid və müştəri məmnuniyyəti bizim əsas prioritetimizdir.",
+  "who":"Biz Kimik?",
+  "service": {
+  "item1": {
+    "title": "Qapı lövhəsi",
+    "text": "Etibarınızın və ünvanınızın dəyişməz imzası. Şirkətinizin simasını qapınızdan əks etdirin!"
+  },
+  "item2": {
+    "title": "Küçə reklamı",
+    "text": "Şəhərin mərkəzində, hər kəsin gözü önündə! Markanızı çöl reklamları ilə zirvəyə daşıyın."
+  },
+  "item3": {
+    "title": "Menyular",
+    "text": "Dadın unudulmaz təqdimatı ilk səhifədən başlayır. Zövqünüzə uyğun, zövqlə hazırlanmış menyular!"
+  },
+  "item4": {
+    "title": "Qutular",
+    "text": "İçindəki hədiyyə qədər, qutusu da unudulmaz olsun! Zövqlü qablaşdırmalarla təəssüratınızı zirvəyə qaldırın."
+  },
+  "item5": {
+    "title": "Sertifikatlar",
+    "text": "Uğurunuzu təsdiqləyən, zəhmətinizi dəyərləndirən imzalar. Keyfiyyətli və prestijli sertifikatlarla fərq yaradın!"
+  },
+  "item6": {
+    "title": "Promo məhsullar",
+    "text": "Müştərilərinizin stolundan, cibindən və gündəlik həyatından əskik olmayan promo məhsullarla brendinizi hər zaman göz önündə saxlayın!"
+  }
+},
+"next":"DAHA ÇOX",
+"product": {
+    "start": "MƏHSULLARIMIZ",
+    "header": "Çap və Promo Məhsulları",
+    "text": "İstifadə etdiyiniz çap məhsulları və promo materialları hər yerdə sizin əvəzinizdən mesajınızı müştərilərinizə çatdırır. Rənglər və unikal dizayn ideyalarınızı canlandırır, məhsul, xidmət və brendinizin keyfiyyətini ön plana çıxarır. Brendinizi daşıyan promo məhsullar isə sizi hər an göz önündə saxlamaqla yanaşı, mövcud olmadığınız yerlərdə belə görünən və xatırlanan edir."
+  },
+  "menu":"MENYU",
+  "products": {
+    "bookPrinting": "Kitab çapı",
+    "outdoorAd": "Çöl reklamı",
+    "promoProduct": "Promo məhsul",
+    "labelPrint": "Etiket və basqı",
+    "menu": "Menyu"
+  },
+   "pag":"Keçid linkləri",
+   "sendQuery": "Sorğu göndər",
+   "socialMedia": "Sosial media",
+   "whatWeOffer": "Sizə nə təqdim edirik?",
+   "aboutText": "Ən müasir texnologiyalar və güclü istehsalat potensialımızla keyfiyyətli çap xidmətləri təqdim edirik. Sənayedəki ən son yenilikləri tətbiq edərək, hər bir layihənizi vaxtında, sərfəli və tələblərinizə tam uyğun şəkildə həyata keçiririk.",
+   
+  "servicesCards": {
+    "item1": {
+      "header": "Kitab çapı",
+      "text": "Bədii, elmi və tədris kitablarının, akademik və sənədli nəşrlərin, jurnal və kataloqların yüksək keyfiyyətdə çapı. Keyfiyyətli çap həlləri ilə oxucularınızın sevgisini və etibarını qazanın."
+    },
+    "item2": {
+      "header": "Security çap",
+      "text": "Orijinallığı təsdiqləmək və məhsullarınızı qorumaq üçün etibarlı həllər. Yüksək təhlükəsizlik elementləri ilə təchiz olunmuş məhsullarla işinizi güvənli hala gətirin."
+    },
+    "item3": {
+      "header": "Etiket və qablaşdırma",
+      "text": "Etiket və qablaşdırma həlləri ilə məhsulunuzun imicini gücləndirin. 1 ədəddən 1.000.000-a qədər müxtəlif dizaynlı etiketlərlə satışlarınızı artırın."
+    },
+    "item4": {
+      "header": "Promo məhsullar",
+      "text": "Promo məhsullarla markanızı gündəlik həyatın bir parçasına çevirin. Fərdiləşdirilmiş hədiyyələr vasitəsilə uzunmüddətli təəssürat yaradın."
+    },
+    "item5": {
+      "header": "Reklam məhsulları",
+      "text": "Reklam məhsulları ilə mesajınızı mövcud və potensial müştərilərinizə daha effektiv çatdırın. Gözoxşayan dizaynlar ilə brendinizi hər zaman fərqləndirin."
+    },
+    "item6": {
+      "header": "Digər çap məhsulları",
+      "text": "Fincanlar və digər korporativ məhsullar üzərində çap, qeyd dəftərləri, sənəd formaları və ehtiyacınız olan bütün çap işlərini yüksək dəqiqliklə yerinə yetiririk."
+    }
+  },
+
+
+  "serviceDetails": {
+    "item1": {
+      "title": "Kitab çapı",
+      "description": "İdeyalarınızı, hekayələrinizi və elmi biliklərinizi oxucularınıza çatdırmağın ən təsirli yolu keyfiyyətli çapdan keçir. Qabaqcıl texnologiyalar və peşəkar dizayn yanaşması ilə hazırlanan nəşrlərimiz həm estetik, həm də funksional baxımdan qüsursuz olur. Geniş format və material seçimlərimizlə hər növ kitab layihəniz üçün fərdi həllər təqdim edirik.",
+      "features": [
+        "Bədii əsərlər (roman, povest və hekayələr)",
+        "Dərs vəsaitləri, dərsliklər və elmi toplular",
+        "Jurnallar, təqdimat və məhsul kataloqları",
+        "Akademik tədqiqatlar və sənədli nəşrlər",
+        "Dini kitablar və müqəddəs mətnlər"
+      ]
+    },
+    "item2": {
+      "title": "Security çap",
+      "description": "Maliyyə, hüquqi və rəsmi sənədlərinizin maksimum səviyyədə qorunması üçün xüsusi təhlükəsizlik çap həlləri təqdim edirik. Saxtakarlığın və dublikatların qarşısını almaq məqsədilə yüksək texnologiyalı çap üsullarından, xüsusi mürəkkəblərdən, hologramlardan və digər qabaqcıl təhlükəsizlik elementlərindən istifadə edirik. Hər bir sənədin məxfiliyini və orijinallığını təmin etmək üçün fərdi yanaşma tətbiq edir, sifarişin həcmindən asılı olmayaraq bütün təhlükəsizlik çap məhsullarını yüksək dəqiqliklə hazırlayırıq.",
+      "features": [
+        "Hologram və təhlükəsizlik etiketləri",
+        "Sertifikatlar və rəsmi diplomlar",
+        "Bank çekləri və maliyyə sənədləri",
+        "Biletlər və təhlükəsiz keçid kartları",
+        "Şəxsi məlumatları qoruyan sənədlər",
+        "Ciddi hesabat blankları",
+        "Aksiz markalar və lotereya biletləri"
+      ]
+    },
+    "item3": {
+      "title": "Etiket və qablaşdırma",
+      "description": "Etiket və qablaşdırmalar məhsulunuzu tanıtmaq və alıcıların diqqətini cəlb etmək üçün ən vacib elementlərdən biridir. Peşəkar dizayn və yüksək keyfiyyətli çap texnologiyaları ilə hazırlanmış qablaşdırma və etiketlər brendinizi daha cəlbedici və fərqli edir. Məhsul haqqında vacib məlumatları təqdim edən, eyni zamanda vizual cəhətdən cəlbedici olan etiket və qablaşdırmalar müştərilərin qərar vermə prosesində mühüm rol oynayır. Sizin üçün fərdi dizaynlı, innovativ və davamlı materiallardan istifadə olunaraq hazırlanan həllər təqdim edirik.",
+      "features": [
+        "Məhsul etiketləri",
+        "Fərdi qablaşdırma dizaynları",
+        "Karton və kağız qutular",
+        "Karton və kağız çantalar",
+        "Qida məhsulları üçün etiket və qablaşdırmalar",
+        "Kosmetika və dərman məhsulları üçün etiket və qablaşdırmalar"
+      ]
+    },
+    "item4": {
+      "title": "Promo məhsullar",
+      "description": "Promo məhsullar şirkətinizin tanıtımını gücləndirmək və müştərilərinizə xoş sürprizlər təqdim etmək üçün mükəmməl marketinq alətləridir. Funksional və cəlbedici dizayna malik bu məhsullar, markanızı gündəlik həyatda daha görünən edir və uzunmüddətli tanıtım imkanı yaradır. Brendiniz üçün loqo və müxtəlif dizaynlarla hazırlanan promo məhsullar tədbirlərdə, sərgilərdə, kampaniyalarda istifadə oluna və korporativ hədiyyə kimi təqdim edilə bilər. Müştərilərinizlə əlaqənizi gücləndirən bu məhsullar markanızın yadda qalmasını təmin edərək sizi rəqiblərinizdən fərqləndirir.",
+      "features": [
+        "Vizitkartlar",
+        "Bloknotlar və dəftərlər",
+        "Çantalar (parça, kətan və s.)",
+        "Fincanlar və su qabları",
+        "Açarlıq və aksessuarlar",
+        "Powerbank və USB yaddaşlar",
+        "Divar və masa təqvimləri"
+      ]
+    },
+    "item5": {
+      "title": "Reklam məhsulları",
+      "description": "Reklam məhsulları markanızın geniş auditoriyaya tanıdılması və diqqət çəkən vizual mesajlar təqdim etməsi üçün ideal vasitədir. Çöl reklamlarından tutmuş daxili mühitlər üçün nəzərdə tutulmuş reklam elementlərinə qədər hər bir məhsul markanızın əsas mesajlarını müştərilərinizə effektiv şəkildə çatdırır. Müasir texnologiyalar və kreativ dizayn yanaşmaları ilə hazırlanan reklam məhsulları, kampaniyalarınızın təsirini artırır və brendin dəyərini yüksəldir. Bannerlər, LED lövhələr, roll-uplar və digər reklam məhsulları həm vizual cəlbediciliyi, həm də keyfiyyəti ilə fərqlənir. Bu məhsullar tədbirlər və sərgilər zamanı diqqəti cəlb etmək və markanızı müsbət şəkildə yadda saxlamaq üçün ideal seçimdir.",
+      "features": [
+        "Brend kataloqları və broşürlər",
+        "Reklam posterləri və bannerlər",
+        "Təqdimat lövhələri və stendlər",
+        "Açıq hava reklamları",
+        "İnformasiyalı afişalar və bukletlər",
+        "Qapı lövhələri"
+      ]
+    },
+    "item6": {
+      "title": "Digər çap məhsulları",
+      "description": "Fərdi və korporativ müştərilər üçün müasir çap texnologiyaları ilə geniş çeşiddə xidmətlər təqdim edirik. Yüksək keyfiyyətli materiallar və peşəkar dizayn ilə hər bir çap məhsulunun həm funksionallığı, həm də estetikası diqqətlə düşünülür. Ofis sənədlərindən tutmuş, xüsusi tədbirlər üçün dəvətnamələrə qədər, biz sizə ehtiyaclarınıza uyğun sürətli və innovativ çap həlləri təklif edirik.",
+      "features": [
+        "Ofis və korporativ sənədlər",
+        "Mətbəx və restoran menyuları",
+        "Dəvətnamə və açıqcalar",
+        "Parça və kağız çantalar üzərində çap",
+        "Tekstil məhsulları",
+        "Bayraq və şərflər"
+      ]
+    }
+  },
+  "detailedInfo": "Ətraflı məlumat",
+  "form": {
+    "titlePersonal": "Şəxsi Məlumatlar",
+    "fullNameLabel": "Tam adınız",
+    "firstNamePlaceholder": "Adınız",
+    "lastNamePlaceholder": "Soyadınız",
+    "firstNameRequired": "Ad mütləqdir",
+    "lastNameRequired": "Soyad mütləqdir",
+    
+    "emailLabel": "E-poçt",
+    "emailPlaceholder": "E-poçt ünvanınızı daxil edin",
+    "emailRequired": "E-poçt mütləqdir",
+    "emailInvalid": "Düzgün e-poçt daxil edin",
+    
+    "phoneLabel": "Əlaqə telefonu",
+    "phonePlaceholder": "050 123 45 67",
+    "phoneRequired": "Telefon nömrəsi mütləqdir",
+    
+    "titleOrder": "Sifariş Məlumatları",
+    "productTypeLabel": "Məhsulun növü",
+    "productTypePlaceholder": "Buklet, vizitkart və s.",
+    "productTypeRequired": "Məhsul növü mütləqdir",
+    
+    "printMaterialsLabel": "Çap materialları",
+    "printMaterialsPlaceholder": "Kağız növü, qalınlıq və s.",
+    "printMaterialsRequired": "Çap materialı mütləqdir",
+    
+    "quantityLabel": "Məhsulun miqdarı",
+    "quantityPlaceholder": "Miqdarı daxil edin",
+    "quantityRequired": "Miqdar mütləqdir",
+    
+    "uploadLabel": "Dizaynınızı yükləyin",
+    "uploadText": "Yükləmək üçün faylları bu sahəyə klikləyin və ya dartın.",
+    "uploadLimit": "Siz 3 faylana qədər yükləyə bilərsiniz.",
+    "uploadHint": "PDF, Adobe Illustrator və ya JPEG faylları dəstəklənir",
+    "selectedFiles": "Seçilmiş fayllar:",
+    
+    "notesLabel": "Əlavə qeydləriniz",
+    "notesPlaceholder": "Xüsusi tələblər, çatdırılma və s.",
+    
+    "privacyText": "Şəxsi məlumatlarınız tam məxfi saxlanılacaq və üçüncü tərəflərlə paylaşılmayacaq.",
+    "submitBtn": "GÖNDƏR",
+    "submittingBtn": "GÖNDƏRİLİR...",
+    
+    "maxFileAlert": "Ən çox 3 fayl yükləyə bilərsiniz.",
+    "successTitle": "Uğurludur!",
+    "successText": "Sifarişiniz uğurla Telegram qrupuna göndərildi!",
+    "loadingTitle": "Göndərilir...",
+    "loadingText": "Zəhmət olmasa gözləyin, məlumatlar ötürülür.",
+    "errorTitle": "Xəta baş verdi!",
+    "errorText": "Sifariş göndərilmədi. Zəhmət olmasa yenidən yoxlayın."
+  }
+
+}
+
