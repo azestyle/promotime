@@ -41,6 +41,17 @@ export function Footer(){
          <Social/>
         </div> 
     </div>
+    <div className="footer-central">
+       <div className="sstop"></div>
+       <div className="ssbottom">
+        <p> © 2026, PromoTime Printing House.</p>
+       <p className="footer-tolink">Developped by <a href="https://www.instagram.com/khayal_hsnl?igsi=YTZkd2ZvdGxqZWgy" rel="noopener noreferrer" target="_blank" className="socialContainer containerOne">Khayal Hasanli </a></p>
+       </div>
+    </div>
    </div>
     </>)
 }
+
+ 
+         
+       

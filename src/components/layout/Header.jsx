@@ -1,7 +1,7 @@
 import React, { useState,useEffect } from "react";
 import { useTranslation } from "react-i18next";
 import { useLocation, useNavigate } from "react-router";
-import himage from '../../assets/img/promo.png';
+import himage from '../../assets/img/promo.webp';
 import { HeaderList } from './../home/HeaderList';
 import 'flag-icons/css/flag-icons.min.css';
 import HeaderModal from "../home/headerModal";

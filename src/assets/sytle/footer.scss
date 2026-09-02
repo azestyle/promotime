@@ -22,3 +22,34 @@
     gap: 10px;
 
 }
+
+.footer-central{
+    display: flex;
+    flex-direction: column;
+    gap: var(--font-size-2xl);
+    font-size: var(--font-size-md);
+   padding-top: 10%;
+}
+
+       
+.ssbottom{
+ display: flex;
+ font-size: var(--font-size-sm);  
+
+    justify-content: space-between;
+}
+.footer-tolink{
+    
+    font-size: var(--font-size-sm); 
+    a{
+       font-size: var(--font-size-md); 
+    }
+}
+
+.sstop{
+     align-self: center;
+    width: 80%;
+    height: 1px;
+    border: 1px groove white;
+     
+}
