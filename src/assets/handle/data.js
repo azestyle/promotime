@@ -102,7 +102,7 @@ export const list2=[
   },
 ]
 
-export const list3=['<a href="mailto:Promotimeprint@gmail.com">Promotimeprint@gmail.com</a>','<a href="tel:+994704492926">+994 (70) 449-23-26</a>']
+export const list3=['<a href="mailto:Promotimeprint@gmail.com">Promotimeprint@gmail.com</a>','<a href="tel:+994704492926">+994 (70) 449-29-26</a>']
 
 
 export const servicesData = [
