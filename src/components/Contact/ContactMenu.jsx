@@ -27,7 +27,7 @@ export function ContactMenu(){
         <li>
           <span className="icon"><i className="fa-solid fa-phone"></i></span>
           <div className="info-content">
-            <a href="tel:+994704492326">+994 (70) 449-23-26</a>
+            <a href="tel:+994704492326">+994 (70) 449-29-26</a>
           </div>
         </li>
 
